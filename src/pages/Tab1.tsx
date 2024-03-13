@@ -30,7 +30,7 @@ const Tab1: React.FC = () => {
         <IonCol size="9">
           <IonCardHeader>
             <IonCardTitle>Aileen Obispo</IonCardTitle>
-            <IonCardSubtitle>BSIT Student</IonCardSubtitle>
+            <IonCardSubtitle>BSIT Student 3A</IonCardSubtitle>
           </IonCardHeader>
         </IonCol>
       </IonRow>
