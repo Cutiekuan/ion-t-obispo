@@ -20,7 +20,7 @@ import {
               <IonTitle size="large">Home</IonTitle>
             </IonToolbar>
           </IonHeader>
-          <h1>This is my Home page.</h1>
+          <h1>This is my Home page.<br></br><br></br>I am Aileen Obispo, 3rd year IT student of NBSC.</h1>
         </IonContent>
       </IonPage>
     );
