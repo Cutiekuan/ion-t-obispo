@@ -1,0 +1,7 @@
+{
+  "name": "ion-t-obispo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
